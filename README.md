@@ -26,3 +26,5 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/suraj1849/React-Developement-Projects
 
 ## Navigate to the project directory:
+cd react-project-series
+
