@@ -33,7 +33,8 @@ npm install
 
 
 ## Project Structure
-# The project is structured as follows:
+### The project is structured as follows:
 
 src/: Contains the source code for the React project.
+
 public/: Includes the HTML template and other static assets.
