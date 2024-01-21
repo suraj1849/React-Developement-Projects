@@ -38,3 +38,10 @@ npm install
 src/: Contains the source code for the React project.
 
 public/: Includes the HTML template and other static assets.
+
+## Running the Project
+
+To start the development server and run the React application, use the following command:
+
+npm start
+
