@@ -28,3 +28,4 @@ Before you begin, ensure you have the following installed:
 ## Navigate to the project directory:
 cd react-project-series
 
+## Install project dependencies:
