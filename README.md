@@ -42,7 +42,6 @@ public/: Includes the HTML template and other static assets.
 
 ## Running the Project
 
-To start the development server and run the React application, use the following command:
 
 npm start
 
