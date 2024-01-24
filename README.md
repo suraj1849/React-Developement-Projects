@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 cd react-project-series
 
 ## Install project dependencies:
-
+npm install
 
 
 ## Project Structure
