@@ -1,5 +1,6 @@
 # React-Developement-Projects
 # React Project Series
+Welcome to the React Project Series! This repository contains a series of progressively challenging React projects designed to help beginners learn and master React development.
 
 
 ## Table of Contents
