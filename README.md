@@ -3,13 +3,7 @@
 Welcome to the React Project Series! This repository contains a series of progressively challenging React projects designed to help beginners learn and master React development.
 
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
-3. [Getting Started](#getting-started)
-4. [Project Structure](#project-structure)
-5. [Running the Project](#running-the-project)
-6. [Project Descriptions](#project-descriptions)
+
 
 
 ## Introduction
