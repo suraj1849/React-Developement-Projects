@@ -21,11 +21,6 @@ Before you begin, ensure you have the following installed:
 
 
 
-## Getting Started
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/suraj1849/React-Developement-Projects
-
 ## Navigate to the project directory:
 cd react-project-series
 
