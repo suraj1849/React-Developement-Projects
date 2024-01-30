@@ -16,10 +16,6 @@ This repository serves as a learning resource for individuals who are new to Rea
 
 
 
-## Prerequisites
-Before you begin, ensure you have the following installed:
-- Node.js: [Download Node.js](https://nodejs.org/)
-- npm (Node Package Manager): Comes with Node.js installation
 
 ## Getting Started
 1. Clone this repository to your local machine:
