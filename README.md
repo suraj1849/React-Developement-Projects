@@ -24,6 +24,10 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/suraj1849/React-Developement-Projects
 
+## Getting Started
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/suraj1849/React-Developement-Projects
 
 
 ## Navigate to the project directory:
