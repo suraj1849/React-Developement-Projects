@@ -19,6 +19,10 @@ Before you begin, ensure you have the following installed:
 - Node.js: [Download Node.js](https://nodejs.org/)
 - npm (Node Package Manager): Comes with Node.js installation
 
+## Getting Started
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/suraj1849/React-Developement-Projects
 
 
 
