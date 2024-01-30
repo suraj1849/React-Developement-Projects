@@ -14,6 +14,10 @@ Welcome to the React Project Series! This repository contains a series of progre
 ## Introduction
 This repository serves as a learning resource for individuals who are new to React or want to enhance their React skills. The projects are organized in increasing order of complexity, allowing beginners to build upon their knowledge gradually.
 
+## Prerequisites
+Before you begin, ensure you have the following installed:
+- Node.js: [Download Node.js](https://nodejs.org/)
+- npm (Node Package Manager): Comes with Node.js installation
 
 
 
