@@ -13,6 +13,7 @@ Welcome to the React Project Series! This repository contains a series of progre
 
 
 
+
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 - Node.js: [Download Node.js](https://nodejs.org/)
